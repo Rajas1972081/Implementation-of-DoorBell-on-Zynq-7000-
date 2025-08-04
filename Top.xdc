@@ -1,0 +1,6 @@
+set_property PACKAGE_PIN G14 [get_ports bell_sound]
+set_property PACKAGE_PIN G15 [get_ports button_press]
+set_property PACKAGE_PIN P15 [get_ports power_switch]
+set_property IOSTANDARD LVCMOS33 [get_ports bell_sound]
+set_property IOSTANDARD LVCMOS33 [get_ports button_press]
+set_property IOSTANDARD LVCMOS33 [get_ports power_switch]
